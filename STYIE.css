@@ -1,0 +1,33 @@
+@charset "utf-8";
+/* CSS Document */
+
+#CARD {
+	margin: auto;
+	padding: 10px;
+	height: 460px;
+	width: 300px;
+	background-color: #F9C8CA;
+	border-radius: 15px;
+}
+#PIC {
+	margin: auto;
+	height: 200px;
+	width: 200px;
+	background-color: #EBD5FB;
+	background-image: url(images/head2.png);
+	background-repeat: no-repeat;
+	border-radius: 100px;
+	background-position: center center;
+	background-size: contain;
+}
+#word {
+	margin: auto;
+	width: 60%;
+}
+#word {
+	margin: auto;
+	width: 60%;
+	background-color: #B0DDF9;
+}
+#CARD #word h1 {
+}
